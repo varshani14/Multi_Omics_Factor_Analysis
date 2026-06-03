@@ -1,0 +1,146 @@
+Patient_ID,cancer_type,self_reported_race,self_reported_ethnicity,self_reported_ethnicity_race_ancestry_identified,self_reported_participant_country,washU_pred_ancestry,mssm_pred_anc,consensus_pred_ancestry
+C3L-00017,PDA,White,Not Hispanic or Latino,Caucasian,United States,EUR,EUR,EUR
+C3L-00102,PDA,White,Not Hispanic or Latino,White,United States,EUR,EUR,EUR
+C3L-00189,PDA,Unknown,Unknown,Canadian,Canada,EUR,EUR,EUR
+C3L-00277,PDA,White,Unknown,Caucasian,,EUR,EUR,EUR
+C3L-00401,PDA,Unknown,Unknown,TSS did not collect this information,Canada,EUR,EUR,EUR
+C3L-00589,PDA,White,Not Hispanic or Latino,White,United States,EUR,EUR,EUR
+C3L-00598,PDA,Unknown,Unknown,Caucasian,Canada,EUR,EUR,EUR
+C3L-00599,PDA,Unknown,Unknown,Polish,Poland,EUR,EUR,EUR
+C3L-00622,PDA,Unknown,Unknown,Irish,Canada,EUR,EUR,EUR
+C3L-00625,PDA,Unknown,Unknown,Caucasian,Canada,EUR,EUR,EUR
+C3L-00640,PDA,White,Not Hispanic or Latino,Caucasian,United States,EUR,EUR,EUR
+C3L-00819,PDA,White,Not Hispanic or Latino,White,United States,EUR,EUR,EUR
+C3L-00881,PDA,White,Not Hispanic or Latino,Caucasian,United States,EUR,EUR,EUR
+C3L-00928,PDA,White,Not Hispanic or Latino,White,United States,EUR,EUR,EUR
+C3L-01031,PDA,Unknown,Unknown,White (Caucasian),Russia,EUR,EUR,EUR
+C3L-01036,PDA,Unknown,Unknown,White (Caucasian),Russia,EUR,EUR,EUR
+C3L-01037,PDA,Unknown,Unknown,White (Caucasian),Russia,EUR,EUR,EUR
+C3L-01051,PDA,Unknown,Unknown,White (Caucasian),Russia,EUR,EUR,EUR
+C3L-01052,PDA,Unknown,Unknown,White (Caucasian),Russia,EUR,EUR,EUR
+C3L-01053,PDA,Unknown,Unknown,White (Caucasian),Russia,EUR,EUR,EUR
+C3L-01054,PDA,Unknown,Unknown,White (Caucasian),Russia,EUR,EUR,EUR
+C3L-01124,PDA,Unknown,Unknown,White (Caucasian),Russia,EUR,EUR,EUR
+C3L-01328,PDA,White,Not Hispanic or Latino,Caucasian,,EUR,EUR,EUR
+C3L-01453,PDA,White,Hispanic or Latino,Caucasian,United States,EUR,EUR,EUR
+C3L-01598,PDA,White,Not Hispanic or Latino,White,United States,EUR,EUR,EUR
+C3L-01637,PDA,White,Not Hispanic or Latino,White,United States,EUR,EUR,EUR
+C3L-01662,PDA,White,Not Hispanic or Latino,White,United States,EUR,EUR,EUR
+C3L-01687,PDA,Unknown,Unknown,Japanese,,EAS,EAS,EAS
+C3L-01689,PDA,Unknown,Unknown,Germany,Canada,EUR,EUR,EUR
+C3L-01703,PDA,Unknown,Unknown,Maltese,Canada,EUR,EUR,EUR
+C3L-01971,PDA,White,Not Hispanic or Latino,Caucasian,,EUR,EUR,EUR
+C3L-02109,PDA,Unknown,Unknown,Canadian,Canada,EUR,EUR,EUR
+C3L-02112,PDA,Unknown,Unknown,Caucasian,Canada,EUR,EUR,EUR
+C3L-02115,PDA,Unknown,Unknown,Scottish,Canada,EUR,EUR,EUR
+C3L-02116,PDA,Unknown,Unknown,Chinese,China,EAS,EAS,EAS
+C3L-02118,PDA,Unknown,Unknown,Chinese,China,EAS,EAS,EAS
+C3L-02463,PDA,White,Not Hispanic or Latino,Caucasian,United States,EUR,EUR,EUR
+C3L-02604,PDA,White,Not Hispanic or Latino,White,United States,EUR,EUR,EUR
+C3L-02606,PDA,Unknown,Unknown,TSS did not collect,,EUR,EUR,EUR
+C3L-02610,PDA,Unknown,Unknown,Canadian,Canada,EUR,EUR,EUR
+C3L-02613,PDA,Unknown,Unknown,Chinese,Canada,EAS,EAS,EAS
+C3L-02701,PDA,Unknown,Unknown,White,Bulgaria,EUR,EUR,EUR
+C3L-02809,PDA,White,Not Hispanic or Latino,Caucasian,,EUR,EUR,EUR
+C3L-02890,PDA,Unknown,Unknown,Jewish,Canada,EUR,EUR,EUR
+C3L-02897,PDA,White,Not Hispanic or Latino,White,United States,EUR,EUR,EUR
+C3L-02899,PDA,White,Not Hispanic or Latino,White,United States,EUR,EUR,EUR
+C3L-03123,PDA,Unknown,Unknown,Ukrainian,Canada,EUR,EUR,EUR
+C3L-03129,PDA,Unknown,Unknown,Chinese,China,EAS,,EAS
+C3L-03356,PDA,Unknown,Unknown,Caucasian,South Wales,EUR,EUR,EUR
+C3L-03371,PDA,Unknown,Unknown,White (Caucasian),Russia,EUR,,EUR
+C3L-03388,PDA,Unknown,Unknown,White (Caucasian),Russia,AMR,EUR,EUR
+C3L-03394,PDA,Unknown,Unknown,White (Caucasian),Russia,EUR,EUR,EUR
+C3L-03395,PDA,Unknown,Unknown,White (Caucasian),Russia,EUR,EUR,EUR
+C3L-03628,PDA,Unknown,Unknown,European,Denmark,EUR,EUR,EUR
+C3L-03630,PDA,Unknown,Unknown,Canadian,Canada,EUR,EUR,EUR
+C3L-03632,PDA,Unknown,Unknown,TSS did not collect,,EUR,EUR,EUR
+C3L-03635,PDA,Unknown,Unknown,TSS did not collect,,EUR,EUR,EUR
+C3L-03639,PDA,Unknown,Unknown,TSS did not collect,,EAS,EAS,EAS
+C3L-03743,PDA,White,Not Hispanic or Latino,Caucasian,United States,EUR,EUR,EUR
+C3L-04027,PDA,Unknown,Unknown,white,Serbia,EUR,EUR,EUR
+C3L-04072,PDA,Black or African American,Not Hispanic or Latino,Black/African,United States,AFR,AFR,AFR
+C3L-04080,PDA,White,Not Hispanic or Latino,Italian,United States,EUR,EUR,EUR
+C3L-04473,PDA,Unknown,Unknown,Indian,India,SAS,SAS,SAS
+C3L-04475,PDA,Unknown,Unknown,Caucasian Canadian,Canada,EUR,EUR,EUR
+C3L-04479,PDA,Unknown,Unknown,TSS did not collect,,EUR,EUR,EUR
+C3L-04495,PDA,Unknown,Unknown,Caucasian,Canada,EUR,EUR,EUR
+C3L-04848,PDA,Unknown,Unknown,Anglo saxon,Canada,EUR,EUR,EUR
+C3L-04853,PDA,Unknown,Unknown,Canadian,Canada,EUR,EUR,EUR
+C3N-00198,PDA,White,Not Hispanic or Latino,White,United States,EUR,EUR,EUR
+C3N-00249,PDA,White,Not Hispanic or Latino,white,United States,EUR,EUR,EUR
+C3N-00302,PDA,Unknown,Unknown,Caucasian,Poland,EUR,EUR,EUR
+C3N-00303,PDA,Unknown,Unknown,Caucasian,Poland,EUR,EUR,EUR
+C3N-00436,PDA,Unknown,Unknown,WHITE,Poland,EUR,EUR,EUR
+C3N-00511,PDA,Unknown,Unknown,WHITE,Poland,EUR,EUR,EUR
+C3N-00512,PDA,Unknown,Unknown,WHITE,Poland,EUR,EUR,EUR
+C3N-00513,PDA,Unknown,Unknown,WHITE,Poland,EUR,EUR,EUR
+C3N-00514,PDA,Unknown,Unknown,white,Poland,EUR,EUR,EUR
+C3N-00516,PDA,Unknown,Unknown,WHITE,Poland,EUR,EUR,EUR
+C3N-00517,PDA,Unknown,Unknown,WHITE,Poland,EUR,EUR,EUR
+C3N-00518,PDA,Unknown,Unknown,WHITE,Poland,EUR,EUR,EUR
+C3N-00709,PDA,White,Not Hispanic or Latino,"White, Non Hispanic",United States,EUR,EUR,EUR
+C3N-00957,PDA,White,Not Hispanic or Latino,White,United States,EUR,EUR,EUR
+C3N-01011,PDA,White,Not Hispanic or Latino,white,United States,EUR,EUR,EUR
+C3N-01012,PDA,White,Not Hispanic or Latino,white,United States,EUR,EUR,EUR
+C3N-01165,PDA,Unknown,Unknown,WHITE,Poland,EUR,EUR,EUR
+C3N-01166,PDA,Unknown,Unknown,WHITE,Poland,EUR,EUR,EUR
+C3N-01167,PDA,Unknown,Unknown,WHITE,Poland,EUR,EUR,EUR
+C3N-01168,PDA,Unknown,Unknown,WHITE,Poland,EUR,EUR,EUR
+C3N-01375,PDA,Unknown,Unknown,Caucasian,Poland,EUR,EUR,EUR
+C3N-01379,PDA,Unknown,Unknown,Caucasian,Poland,EUR,,EUR
+C3N-01380,PDA,Unknown,Unknown,Caucasian,Poland,EUR,EUR,EUR
+C3N-01381,PDA,Unknown,Unknown,WHITE,Poland,EUR,EUR,EUR
+C3N-01382,PDA,Unknown,Unknown,WHITE,Poland,EUR,EUR,EUR
+C3N-01383,PDA,Unknown,Unknown,WHITE,Poland,EUR,EUR,EUR
+C3N-01388,PDA,Unknown,Unknown,caucasian,Poland,EUR,EUR,EUR
+C3N-01502,PDA,White,Not Hispanic or Latino,white,United States,EUR,EUR,EUR
+C3N-01714,PDA,Unknown,Unknown,caucasian,Poland,EUR,EUR,EUR
+C3N-01715,PDA,Unknown,Unknown,caucasian,Poland,EUR,EUR,EUR
+C3N-01716,PDA,Unknown,Unknown,caucasian,Poland,EUR,EUR,EUR
+C3N-01719,PDA,Unknown,Unknown,caucasian,Poland,EUR,EUR,EUR
+C3N-01900,PDA,Unknown,Unknown,white,Poland,EUR,,EUR
+C3N-01907,PDA,Unknown,Unknown,caucasian,Poland,EUR,,EUR
+C3N-01997,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-01998,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-02010,PDA,Black or African American,Not Hispanic or Latino,black,United States,AFR,AFR,AFR
+C3N-02295,PDA,Unknown,Unknown,Caucasian,Poland,EUR,EUR,EUR
+C3N-02573,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-02579,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-02585,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-02589,PDA,Unknown,Unknown,white,Poland,EUR,EUR,EUR
+C3N-02592,PDA,Unknown,Unknown,white,Poland,EUR,EUR,EUR
+C3N-02768,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-02940,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-02944,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-02971,PDA,White,Not Hispanic or Latino,Arab,Iraq,EUR,EUR,EUR
+C3N-02998,PDA,Unknown,Unknown,white,Poland,EUR,EUR,EUR
+C3N-03000,PDA,Unknown,Unknown,white,Poland,EUR,EUR,EUR
+C3N-03006,PDA,Unknown,Unknown,Caucasian,Poland,EUR,EUR,EUR
+C3N-03007,PDA,Unknown,Unknown,Caucasian,Poland,EUR,EUR,EUR
+C3N-03039,PDA,White,Not Hispanic or Latino,White,United States,EUR,EUR,EUR
+C3N-03061,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-03069,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-03086,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-03173,PDA,White,Not Hispanic or Latino,white,United States,EUR,EUR,EUR
+C3N-03190,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-03211,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-03426,PDA,Unknown,Unknown,Caucasian,Poland,EUR,EUR,EUR
+C3N-03428,PDA,Unknown,Unknown,Caucasian,Poland,EUR,EUR,EUR
+C3N-03430,PDA,Unknown,Unknown,Caucasian,Poland,EUR,EUR,EUR
+C3N-03439,PDA,Unknown,Unknown,white,Poland,EUR,EUR,EUR
+C3N-03440,PDA,Unknown,Unknown,white,Poland,EUR,EUR,EUR
+C3N-03665,PDA,Unknown,Unknown,Caucasian,Poland,EUR,EUR,EUR
+C3N-03666,PDA,Unknown,Unknown,Caucasian,Poland,EUR,EUR,EUR
+C3N-03670,PDA,Unknown,Unknown,Caucasian,Poland,EUR,EUR,EUR
+C3N-03754,PDA,Unknown,Unknown,Caucasian,Poland,EUR,EUR,EUR
+C3N-03780,PDA,Unknown,Unknown,white,Poland,EUR,EUR,EUR
+C3N-03839,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-03840,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-03853,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-03884,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-04119,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-04126,PDA,Unknown,Unknown,Han,China,EAS,EAS,EAS
+C3N-04282,PDA,Unknown,Unknown,white,Poland,EUR,EUR,EUR
+C3N-04283,PDA,Unknown,Unknown,white,Poland,EUR,EUR,EUR
+C3N-04284,PDA,Unknown,Unknown,white,Poland,EUR,EUR,EUR
