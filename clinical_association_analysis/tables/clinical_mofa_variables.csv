@@ -1,0 +1,141 @@
+Patien,tumor_stage_pathological,histologic_grade,pT_clean,pN_clean,tumor_necrosis,margin_status,perineural_invasion,tumor_site,tumor_size_cm,age,"Recurrence status (1, yes; 0, no)","Survival status (1, dead; 0, alive)","Overall survival, days"
+C3L-00017,Stage II,G2 Moderately differentiated,T3,N0,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,4.5,69,0,0,426
+C3L-00102,Stage II,G3 Poorly differentiated,T3,N1,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,3,42,1,1,249
+C3L-00189,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,2.7,68,1,1,1036
+C3L-00277,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Tail,5,69,0,1,610
+C3L-00401,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Body,2.8,62,1,1,1262
+C3L-00589,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Not identified,Head,2.5,80,0,0,1752
+C3L-00598,Stage II,G2 Moderately differentiated,T3,N1,Present,Margin(s) involved by invasive carcinoma,Present,Head,3,61,1,1,422
+C3L-00599,Stage II,G1 Well differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,3,62,1,1,1305
+C3L-00622,Stage II,G1 Well differentiated,T3,N1,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,3.5,72,1,1,1041
+C3L-00625,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,2.5,34,1,1,1198
+C3L-00640,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Body,4.5,59,1,0,594
+C3L-00819,Stage II,G3 Poorly differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,2.8,74,1,1,603
+C3L-00881,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,2.2,80,0,0,3
+C3L-00928,Stage II,G1 Well differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Other,4.5,58,1,1,761
+C3L-01031,Stage II,G2 Moderately differentiated,T3,N0,Present,Margins uninvolved by invasive carcinoma,Present,Other,3.5,64,0,0,369
+C3L-01036,Stage II,G2 Moderately differentiated,T3,N1,Present,Margins uninvolved by invasive carcinoma,Present,Head,2.5,64,1,1,881
+C3L-01037,Stage II,G4 Undifferentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,4.5,42,0,1,300
+C3L-01051,Stage II,G2 Moderately differentiated,T3,N1,Present,Margins uninvolved by invasive carcinoma,Present,Head,2.5,60,0,0,0
+C3L-01052,Stage II,G2 Moderately differentiated,T3,N0,Present,Margins uninvolved by invasive carcinoma,Present,Head,2,64,1,1,743
+C3L-01053,Stage II,G2 Moderately differentiated,T3,N1,Present,Margins uninvolved by invasive carcinoma,Present,Head,2.5,76,0,1,191
+C3L-01054,Stage IV,G2 Moderately differentiated,T3,N1,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,3.5,38,1,1,860
+C3L-01124,Stage III,G2 Moderately differentiated,T2,N2,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,2.2,70,0,0,399
+C3L-01328,Stage II,G3 Poorly differentiated,T3,N1,Present,Margins uninvolved by invasive carcinoma,Present,Head,3.4,71,1,0,271
+C3L-01453,Stage II,G2 Moderately differentiated,T3,N0,Not identified,Margins uninvolved by invasive carcinoma,Present,Tail,5.2,69,0,0,5
+C3L-01598,Stage II,G2 Moderately differentiated,T3,N0,Not identified,Margins uninvolved by invasive carcinoma,Present,Other,2.8,73,1,1,913
+C3L-01637,Stage II,G2 Moderately differentiated,T3,N1,Present,Margins uninvolved by invasive carcinoma,Present,Body,2.6,78,1,1,715
+C3L-01662,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,3,60,1,1,344
+C3L-01687,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,5,78,1,1,376
+C3L-01689,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,3.6,62,1,1,594
+C3L-01703,Stage II,G3 Poorly differentiated,T3,N0,Not identified,Margins uninvolved by invasive carcinoma,Present,Other,6.5,62,1,1,287
+C3L-01971,Stage II,G3 Poorly differentiated,T3,N0,Not identified,Margins uninvolved by invasive carcinoma,Not identified,Head,2,66,0,1,276
+C3L-02109,Stage III,G2 Moderately differentiated,T4,N1,Not identified,Margin(s) involved by invasive carcinoma,Present,Body,4.5,79,0,0,261
+C3L-02112,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,4.5,66,0,0,1338
+C3L-02115,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,3,80,1,1,723
+C3L-02116,Stage I,G2 Moderately differentiated,T2,N0,Not identified,Margins uninvolved by invasive carcinoma,Present,Body,2.5,67,1,1,1063
+C3L-02118,Stage I,G2 Moderately differentiated,T2,N0,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,2.5,67,1,1,632
+C3L-02463,Stage I,G2 Moderately differentiated,T2,N0,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,4,63,0,0,740
+C3L-02604,Stage II,G1 Well differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Tail,2.5,84,0,1,118
+C3L-02606,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,4,68,1,1,403
+C3L-02610,Stage II,G2 Moderately differentiated,T3,N0,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,4.5,80,1,1,190
+C3L-02613,Stage II,G3 Poorly differentiated,T3,N1,Not identified,Margin(s) involved by invasive carcinoma,Not identified,Head,6,52,1,1,211
+C3L-02701,Stage I,G2 Moderately differentiated,T2,NA,Present,Margins uninvolved by invasive carcinoma,Not identified,Other,3,72,0,1,243
+C3L-02809,Stage III,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,5.5,84,0,1,68
+C3L-02890,Stage II,G3 Poorly differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,7.5,65,1,1,1007
+C3L-02897,Stage I,G2 Moderately differentiated,T2,N0,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,2.7,80,0,0,256
+C3L-02899,Stage IV,G2 Moderately differentiated,T3,N2,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,7,73,0,1,91
+C3L-03123,Stage II,G2 Moderately differentiated,T3,N1,Present,Margins uninvolved by invasive carcinoma,Not identified,Head,4.1,60,0,0,1503
+C3L-03356,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Not identified,Head,3.5,71,1,0,550
+C3L-03388,Stage III,G2 Moderately differentiated,T2,N2,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,3.2,68,0,1,11
+C3L-03394,Stage I,G1 Well differentiated,T1,N0,Not identified,Margins uninvolved by invasive carcinoma,Present,Body,1.5,65,1,1,635
+C3L-03395,Stage III,G2 Moderately differentiated,T2,N2,Not identified,Margin(s) involved by invasive carcinoma,Present,Tail,3,78,0,1,88
+C3L-03628,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,3,69,1,1,596
+C3L-03630,Stage II,G2 Moderately differentiated,T1,N1,Not identified,Margins uninvolved by invasive carcinoma,Indeterminate,Head,4.5,78,0,0,78
+C3L-03632,Stage I,G1 Well differentiated,T2,N0,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,2.1,74,0,0,1121
+C3L-03635,Stage I,G2 Moderately differentiated,T2,N0,Not identified,Margin(s) involved by invasive carcinoma,Present,Tail,3.2,63,1,1,854
+C3L-03639,Stage I,G3 Poorly differentiated,T2,N0,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,3.9,76,1,1,246
+C3L-03743,Stage II,G3 Poorly differentiated,T2,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,2.9,71,0,1,732
+C3L-04027,Stage I,G2 Moderately differentiated,T1,N0,Not identified,Margins uninvolved by invasive carcinoma,Not identified,Head,2,69,0,0,240
+C3L-04072,Stage III,G3 Poorly differentiated,T3,N2,Present,Margin(s) involved by invasive carcinoma,Present,Head,4.9,55,0,1,225
+C3L-04080,Stage II,G3 Poorly differentiated,T2,N1,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,3.5,70,0,1,20
+C3L-04473,Stage III,G2 Moderately differentiated,T3,N1,Not identified,Margin(s) involved by invasive carcinoma,Present,Other,4,67,1,1,290
+C3L-04475,Stage III,G2 Moderately differentiated,T2,N2,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,2.7,77,1,1,893
+C3L-04479,Stage II,G3 Poorly differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,1.7,66,1,0,1104
+C3L-04495,Stage III,G2 Moderately differentiated,T4,N1,Not identified,Margin(s) involved by invasive carcinoma,Present,Other,4.8,36,1,1,288
+C3L-04848,Stage II,G3 Poorly differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,4.7,71,0,1,196
+C3L-04853,Stage II,G2 Moderately differentiated,T3,N0,Not identified,Margins uninvolved by invasive carcinoma,Not identified,Head,2.5,85,1,1,279
+C3N-00198,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margin(s) involved by invasive carcinoma,Not identified,Body,3.5,55,1,0,1592
+C3N-00249,Stage III,G2 Moderately differentiated,T3,N1,Not identified,Margin(s) involved by invasive carcinoma,Present,Body,4.2,71,1,1,1590
+C3N-00302,Stage IV,G3 Poorly differentiated,T3,N1,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,4,58,0,1,323
+C3N-00303,Stage III,G3 Poorly differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Not identified,Head,5,65,1,1,599
+C3N-00436,Stage II,G3 Poorly differentiated,T3,N0,Present,Margins uninvolved by invasive carcinoma,Present,Head,4.5,69,1,1,718
+C3N-00511,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,3.5,45,1,1,991
+C3N-00512,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,3.8,42,0,1,1006
+C3N-00513,Stage II,G3 Poorly differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,3.5,63,0,1,394
+C3N-00514,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Not identified,Head,4,60,1,1,795
+C3N-00516,Stage II,G3 Poorly differentiated,T3,N0,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,4,68,1,1,1152
+C3N-00517,Stage III,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,4,69,1,1,1142
+C3N-00518,Stage II,G3 Poorly differentiated,T3,N1,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,6,69,1,1,427
+C3N-00709,Staging is not applicable or unknown,G2 Moderately differentiated,NA,NA,NA,NA,NA,NA,NA,81,0,NA,NA
+C3N-00957,Stage II,G2 Moderately differentiated,T3,N0,Not identified,Margin(s) involved by invasive carcinoma,Present,Tail,5,74,0,0,1189
+C3N-01011,Stage III,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,4,77,1,0,1068
+C3N-01012,Stage I,G2 Moderately differentiated,T2,N0,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,2.5,71,0,0,1352
+C3N-01165,Stage III,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Not identified,Head,2.5,63,0,1,241
+C3N-01166,Stage III,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,4.5,62,1,0,679
+C3N-01167,Stage III,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,3.5,77,1,1,754
+C3N-01168,Stage III,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,4.5,60,1,1,415
+C3N-01375,Stage II,G2 Moderately differentiated,T3,N1,Present,Margins uninvolved by invasive carcinoma,Present,Head,3.5,70,0,1,143
+C3N-01380,Stage IV,G2 Moderately differentiated,T3,N1,Present,Cannot be assessed,Present,Head,3,65,0,1,400
+C3N-01381,Stage III,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,2,43,1,1,455
+C3N-01382,Stage III,G3 Poorly differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,2.5,74,1,1,734
+C3N-01383,Stage III,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,4,80,1,1,791
+C3N-01388,Stage III,G2 Moderately differentiated,T2,N2,Present,Margins uninvolved by invasive carcinoma,Present,Head,3.5,53,1,1,811
+C3N-01502,Stage III,G2 Moderately differentiated,T4,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Tail,4.6,75,0,0,1695
+C3N-01714,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,3,63,1,1,435
+C3N-01715,Stage III,G3 Poorly differentiated,NA,NA,Not identified,Cannot be assessed,Indeterminate,Head,7,61,0,1,109
+C3N-01716,Stage IV,G3 Poorly differentiated,T4,N1,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,2.5,50,0,1,335
+C3N-01719,Stage III,G2 Moderately differentiated,T3,NA,Not identified,Cannot be assessed,Indeterminate,Head,3.5,63,1,1,547
+C3N-01997,Stage I,G2 Moderately differentiated,T2,N0,Present,Margins uninvolved by invasive carcinoma,Present,Tail,3,63,0,1,1035
+C3N-01998,Stage II,G2 Moderately differentiated,T3,N1,Present,Margins uninvolved by invasive carcinoma,Present,Head,2.5,69,0,1,186
+C3N-02010,Stage III,G3 Poorly differentiated,T3,N2,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,4.1,62,0,0,449
+C3N-02295,Stage III,G1 Well differentiated,NA,NA,Not identified,Cannot be assessed,Indeterminate,Head,3.5,56,0,1,371
+C3N-02573,Stage III,G2 Moderately differentiated,T3,N2,Not identified,Margins uninvolved by invasive carcinoma,Present,Other,6,41,0,0,479
+C3N-02579,Stage I,G2 Moderately differentiated,T1,N0,Not identified,Margins uninvolved by invasive carcinoma,Not identified,Head,0.5,51,1,1,358
+C3N-02585,Stage I,G3 Poorly differentiated,T1,N0,Not identified,Margins uninvolved by invasive carcinoma,Not identified,Body,2,65,0,0,1051
+C3N-02589,Stage II,G2 Moderately differentiated,T3,N0,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,2,71,1,1,398
+C3N-02592,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,4.5,63,1,1,294
+C3N-02768,Stage II,G3 Poorly differentiated,T2,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Tail,3,46,0,1,430
+C3N-02940,Stage III,G2 Moderately differentiated,T3,N0,Not identified,Margins uninvolved by invasive carcinoma,Not identified,Head,4.5,64,0,0,1015
+C3N-02944,Stage I,G2 Moderately differentiated,T2,N0,Not identified,Margins uninvolved by invasive carcinoma,Not identified,Tail,3.2,61,1,0,609
+C3N-02971,Stage III,G1 Well differentiated,T4,N0,Not identified,Margin(s) involved by invasive carcinoma,Present,Tail,5.6,78,0,1,70
+C3N-02998,Stage III,G2 Moderately differentiated,T3,N2,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,5,64,1,1,122
+C3N-03000,Stage IV,G3 Poorly differentiated,T3,N2,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,5.5,57,1,1,487
+C3N-03006,Stage III,G2 Moderately differentiated,NA,NA,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,3.3,64,0,0,708
+C3N-03007,Stage III,G2 Moderately differentiated,NA,NA,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,2.8,59,0,1,58
+C3N-03039,Staging is not applicable or unknown,G2 Moderately differentiated,NA,NA,NA,NA,NA,NA,NA,73,0,NA,NA
+C3N-03061,Stage II,G3 Poorly differentiated,T2,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Body,3,62,1,1,139
+C3N-03069,Stage III,G2 Moderately differentiated,T3,N2,Present,Cannot be assessed,Present,Body,6.5,50,0,1,20
+C3N-03086,Stage II,G2 Moderately differentiated,T3,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Body,4.5,69,0,0,733
+C3N-03173,Stage III,G2 Moderately differentiated,T2,N2,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,2.9,64,0,0,32
+C3N-03190,Stage II,G1 Well differentiated,T2,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Body,3,31,0,1,398
+C3N-03211,Stage III,G2 Moderately differentiated,T2,N2,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,4,43,1,1,286
+C3N-03426,Staging is not applicable or unknown,G2 Moderately differentiated,NA,NA,Present,Cannot be assessed,Indeterminate,Head,5,68,0,1,123
+C3N-03428,Staging is not applicable or unknown,G2 Moderately differentiated,NA,NA,Not identified,Cannot be assessed,Present,Head,4,63,1,1,286
+C3N-03430,Staging is not applicable or unknown,G2 Moderately differentiated,NA,NA,Not identified,Cannot be assessed,Present,Head,5,54,0,1,39
+C3N-03439,Stage II,G2 Moderately differentiated,NA,NA,Not identified,Margins uninvolved by invasive carcinoma,Not identified,Head,1.7,56,1,1,458
+C3N-03440,Stage I,G2 Moderately differentiated,NA,NA,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,4,54,0,0,315
+C3N-03665,Stage III,G2 Moderately differentiated,NA,NA,Present,Margins uninvolved by invasive carcinoma,Present,Head,3.5,63,1,0,728
+C3N-03666,Stage III,G2 Moderately differentiated,NA,NA,Not identified,Margin(s) involved by invasive carcinoma,Present,Head,3.5,63,1,1,701
+C3N-03670,Stage III,G2 Moderately differentiated,NA,NA,Present,Margin(s) involved by invasive carcinoma,Present,Head,2.5,60,1,0,1113
+C3N-03754,Stage III,G2 Moderately differentiated,NA,NA,Present,Margin(s) involved by invasive carcinoma,Present,Head,2.8,44,1,1,815
+C3N-03780,Stage I,G2 Moderately differentiated,NA,NA,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,3,69,0,1,20
+C3N-03839,Stage II,G2 Moderately differentiated,T2,N1,Not identified,Cannot be assessed,Present,Head,4,54,1,0,696
+C3N-03840,Stage II,G2 Moderately differentiated,T2,N1,Not identified,Cannot be assessed,Present,Body,3.5,59,0,0,696
+C3N-03853,Stage III,G2 Moderately differentiated,T2,N2,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,3,49,0,1,393
+C3N-03884,Stage III,G2 Moderately differentiated,T2,N2,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,2.3,64,1,1,680
+C3N-04119,Stage II,G2 Moderately differentiated,T2,N1,Not identified,Margins uninvolved by invasive carcinoma,Present,Tail,3,54,1,1,305
+C3N-04126,Stage III,G3 Poorly differentiated,T2,N2,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,3.5,42,0,1,348
+C3N-04282,Stage IV,G3 Poorly differentiated,NA,NA,Present,Margin(s) involved by invasive carcinoma,Present,Head,4,75,1,1,303
+C3N-04283,Stage III,G3 Poorly differentiated,NA,NA,Present,Margins uninvolved by invasive carcinoma,Present,Other,7,66,0,1,1
+C3N-04284,Stage III,G3 Poorly differentiated,NA,NA,Not identified,Margins uninvolved by invasive carcinoma,Present,Head,3,80,0,1,8
